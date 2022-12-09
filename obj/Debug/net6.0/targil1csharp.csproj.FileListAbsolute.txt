@@ -1,0 +1,15 @@
+C:\Users\amika\source\repos\targil1csharp\targil1csharp\bin\Debug\net6.0\targil1csharp.exe
+C:\Users\amika\source\repos\targil1csharp\targil1csharp\bin\Debug\net6.0\targil1csharp.deps.json
+C:\Users\amika\source\repos\targil1csharp\targil1csharp\bin\Debug\net6.0\targil1csharp.runtimeconfig.json
+C:\Users\amika\source\repos\targil1csharp\targil1csharp\bin\Debug\net6.0\targil1csharp.dll
+C:\Users\amika\source\repos\targil1csharp\targil1csharp\bin\Debug\net6.0\targil1csharp.pdb
+C:\Users\amika\source\repos\targil1csharp\targil1csharp\obj\Debug\net6.0\targil1csharp.csproj.AssemblyReference.cache
+C:\Users\amika\source\repos\targil1csharp\targil1csharp\obj\Debug\net6.0\targil1csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amika\source\repos\targil1csharp\targil1csharp\obj\Debug\net6.0\targil1csharp.AssemblyInfoInputs.cache
+C:\Users\amika\source\repos\targil1csharp\targil1csharp\obj\Debug\net6.0\targil1csharp.AssemblyInfo.cs
+C:\Users\amika\source\repos\targil1csharp\targil1csharp\obj\Debug\net6.0\targil1csharp.csproj.CoreCompileInputs.cache
+C:\Users\amika\source\repos\targil1csharp\targil1csharp\obj\Debug\net6.0\targil1csharp.dll
+C:\Users\amika\source\repos\targil1csharp\targil1csharp\obj\Debug\net6.0\refint\targil1csharp.dll
+C:\Users\amika\source\repos\targil1csharp\targil1csharp\obj\Debug\net6.0\targil1csharp.pdb
+C:\Users\amika\source\repos\targil1csharp\targil1csharp\obj\Debug\net6.0\targil1csharp.genruntimeconfig.cache
+C:\Users\amika\source\repos\targil1csharp\targil1csharp\obj\Debug\net6.0\ref\targil1csharp.dll
